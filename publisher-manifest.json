@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "12b0044964779f397b7ad41f",
+  "owner": "vuvjgaxd",
+  "repo": "page-9874b6a3ac50d8d7ed969dbb",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9874b6a3ac50d8d7ed969dbb",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f6313e7d908efffd5ab0bef49075b52292330c583474ba1b6c535a67c23b8007",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享提供专业的VPN网络加速服务，包含基础版、旗舰版、团队版多种套餐。支持多设备同时在线，官方客户端下载与使用指南。",
+          "AI_DESCRIPTION": "小火箭分享提供专业的VPN网络加速服务，包含基础版、旗舰版、团队版多种套餐。支持多设备同时在线，官方客户端下载与使用指南。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n\n    <main>\n        <h1>小火箭分享</h1>\n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭分享是专注于网络加速与VPN服务的专业品牌。我们致力于为用户提供稳定、安全、高速的网络连接体验，帮助您轻松突破地域限制，畅享全球优质资源。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <ul>\n                <li>在家办公：稳定连接企业网络，提升工作效率</li>\n                <li>游戏加速：IPLC专线优化，减少延迟，畅玩在线游戏</li>\n                <li>海外访问：解锁Netflix、YouTube等流媒体平台</li>\n                <li>远程办公：支持多设备同时在线，随时随地高效工作</li>\n            </ul>\n        </section>\n        <section>\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问小火箭分享官网，点击下载客户端</li>\n                <li>下载后进行安装并创建账号</li>\n                <li>登录后选择合适的线路节点</li>\n                <li>点击连接按钮，即可享受高速网络加速</li>\n                <li>支持3-20台设备同时在线，灵活调整</li>\n            </ol>\n        </section>\n        <section>\n            <h2>套餐计划</h2>\n            <div>\n                <div>\n                    <h3>基础版</h3>\n                    <p>¥15/月</p>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div>\n                    <div>推荐</div>\n                    <h3>旗舰版</h3>\n                    <p>¥35/月</p>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div>\n                    <h3>团队版</h3>\n                    <p>¥85/月</p>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是小火箭分享？</summary>\n                <div>小火箭分享是一款专业的网络加速与VPN服务品牌，旨在为用户提供稳定、安全、高速的连接体验，帮助用户轻松访问全球优质资源。</div>\n            </details>\n            <details>\n                <summary>如何选择适合我的套餐？</summary>\n                <div>根据您的需求选择：基础版适合个人日常使用，旗舰版适合游戏玩家和重度用户，团队版适合企业或多人共享使用。</div>\n            </details>\n            <details>\n                <summary>小火箭分享支持哪些设备？</summary>\n                <div>支持 Windows、Mac、iOS、Android 等主流平台，基础版支持3台设备，旗舰版支持5台，团队版支持20台。</div>\n            </details>\n            <details>\n                <summary>客户端如何下载？</summary>\n                <div>请访问官网首页，点击“下载客户端”按钮，按照提示完成安装即可使用。</div>\n            </details>\n            <details>\n                <summary>加速效果如何？</summary>\n                <div>小火箭分享采用IPLC专线和优化节点，能够显著提升上网速度，降低延迟，并稳定解锁各类流媒体平台。</div>\n            </details>\n        </section>\n        <div>\n            <h3>友情链接</h3>\n            <p>更多优质资源：<a href=\"#\">机场分享</a> | <a href=\"#\">VPN教程</a> | <a href=\"#\">节点测速</a></p>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "f930d596a7c0908db4f01b86c012e9ec9e43be63e32fed86f74c5551419c9bff",
+          "seo": {
+            "title": "小火箭分享 - 优质VPN加速器 客户端下载",
+            "keywords": "小火箭分享, VPN加速器, 客户端下载, 机场, 网络加速",
+            "description": "小火箭分享提供专业的VPN网络加速服务，包含基础版、旗舰版、团队版多种套餐。支持多设备同时在线，官方客户端下载与使用指南。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "markquan.cn",
+    "host": "p-363f450983.markquan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3153f5bcd22f6d27602077c43cadfd7c5dde1f96938a6f5a7276c9c0501f0101",
+    "sitemap.xml": "47009e83305d7f8c798c64e52cde5abb37c9783240b5596491dc2d5bbf78df3a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "02e9f8df31c4e5743db7008d62135f9a0fd59b7993e99cb2108235a04a4015c1",
+    "robots.txt": "0a5c8ccefdd7b915f4786f83fdc35654e3f83447d307001236e4dcba7fc46ae6",
+    "ea65b68051c27adbd5529e2121047b84.txt": "56eb1bfca5f6a3875845478bd69bd986d9866e757ab5d0daa190a4b255a68f46"
+  },
+  "revision": "631bd8fcd53016c9748f3fbbe6d3d66ec6d79caa63c7c1af6e6a3c0ec2939126"
+}
